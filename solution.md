@@ -4,11 +4,11 @@
 
 ***Data Types Practice;***
 
--**Objects**: The *object* data type can be used to store the details of products and consumer details
--**Arrays**: The *arrays* can be used to store the products added to cart
--**Numbers**: The *Number* data type is used to track prices,quantities and total the customer's purchase.
--**Strings**: The *String* data type can be used to store name of products, product description,consumer deatils,etc...
--**Booleans (true/false)** : The *Boolean* data type can be used to compare the availabilty of products or check for discounts and even to fillter the products based on rating, price, brand, etc...
+**Objects**: The *object* data type can be used to store the details of products and consumer details \
+**Arrays**: The *arrays* can be used to store the products added to cart \
+**Numbers**: The *Number* data type is used to track prices,quantities and total the customer's purchase. \
+**Strings**: The *String* data type can be used to store name of products, product description,consumer deatils,etc... \
+**Booleans (true/false)** : The *Boolean* data type can be used to compare the availabilty of products or check for discounts and even to fillter the products based on rating, price, brand, etc...
 
 ### CHALLENGE:
 
@@ -59,7 +59,7 @@ introduce("Irhtayag"); // Output: Hi, I'm Irhtayag and I'm 18 years old.
 
 ### CHALLENGE:
 ***Articulate in one sentence the difference between functions and methods.***
--*A function is an independent block of reusable code, whereas a method is a function that is associated with an object and called using that object.*
+*A function is an independent block of reusable code, whereas a method is a function that is associated with an object and called using that object.* \
 
 ## MAKING DECISIONS
 
@@ -130,7 +130,6 @@ for (let i = 1; i <= 20; i += 3) {
 ***Array loop***
 ```javascript
 let pokemonList = ["Pikachu", "Charmander", "Bulbasaur", "Squirtle", "Jigglypuff"];
-
 for (let i = 0; i < pokemonList.length; i++) {
   console.log(pokemonList[i]);
 }
@@ -139,18 +138,19 @@ for (let i = 0; i < pokemonList.length; i++) {
 ***forEach loop***
 ```javascript
 let pokemonList = ["Pikachu", "Charmander", "Bulbasaur", "Squirtle", "Jigglypuff"];
-
 pokemonList.forEach(pokemon => console.log(pokemon));
 ```
 
 ***for-of loop***
 ```javascript
+let pokemonList = ["Pikachu", "Charmander", "Bulbasaur", "Squirtle", "Jigglypuff"];
 for (let pokemon of pokemonList) {
   console.log(pokemon);
 }
 ```
 ***Using map***
 ```javascript
+let pokemonList = ["Pikachu", "Charmander", "Bulbasaur", "Squirtle", "Jigglypuff"];
 pokemonList.map(pokemon => console.log(pokemon));
 ```
 ***Output***
