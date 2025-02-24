@@ -58,8 +58,8 @@ introduce("Irhtayag"); // Output: Hi, I'm Irhtayag and I'm 18 years old.
 ```
 
 ### CHALLENGE:
-***Articulate in one sentence the difference between functions and methods.***
-*A function is an independent block of reusable code, whereas a method is a function that is associated with an object and called using that object.* \
+***Articulate in one sentence the difference between functions and methods.*** \
+*A function is an independent block of reusable code, whereas a method is a function that is associated with an object and called using that object.* 
 
 ## MAKING DECISIONS
 
