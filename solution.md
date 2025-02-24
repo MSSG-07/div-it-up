@@ -5,9 +5,13 @@
 ***Data Types Practice;***
 
 **Objects**: The *object* data type can be used to store the details of products and consumer details
+---
 **Arrays**: The *arrays* can be used to store the products added to cart
+---
 **Numbers**: The *Number* data type is used to track prices,quantities and total the customer's purchase.
+---
 **Strings**: The *String* data type can be used to store name of products, product description,consumer deatils,etc...
+---
 **Booleans (true/false)** : The *Boolean* data type can be used to compare the availabilty of products or check for discounts and even to fillter the products based on rating, price, brand, etc...
 
 ### CHALLENGE:
@@ -59,6 +63,7 @@ introduce("Irhtayag"); // Output: Hi, I'm Irhtayag and I'm 18 years old.
 
 ### CHALLENGE:
 ***Articulate in one sentence the difference between functions and methods.***
+---
 *A function is an independent block of reusable code, whereas a method is a function that is associated with an object and called using that object.*
 
 ## MAKING DECISIONS
